@@ -112,12 +112,3 @@ exibirReceitas();
 
 
 
-/**
-
-a. Um identificador único que não pode se repetir no sistema;
-b. titulo da receita;
-c. nível dificuldade ( com a escala de simples, moderada e complexa);
-d. lista de ingredientes já com a medida (Ex: 1 colher de açúcar);
-e. instruções de preparo;
-f. link do video de preparo;
-g. se é vegana ou não;*/
